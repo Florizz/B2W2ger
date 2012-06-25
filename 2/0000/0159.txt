@@ -7,22 +7,22 @@
 これで　いいですか？
 なにか　ことばを　いれてください！
 なにも　しないで　やめますか？
-はい
-いいえ
+Ja
+Nein
 グループ\xfffeモード
 あいうえお\xfffeモード
-つかう
-けってい
-やめる
-へんしゅう
-あたらしく　メッセージを　ついかする
-えらぶ
-けす
-やめる
-メッセージとうろくリスト：\xfffeつかいたい　メッセージを\xfffeえらんで　ください！
-メッセージの　しゅるいや\xfffeことばをいれる　ばしょを\xfffeえらんで　ください！
-ことばをいれる　ばしょを\xfffeえらんで　ください！
-グループモード：\xfffeグループの　なかから\xfffeことばを　えらんで　ください！
-あいうえおモード：\xfffeもじを　えらんでいって\xfffeことばを　しぼりこんでください！
-あいうえおモード：\xfffeしぼりこんだ　なかから\xfffeことばを　えらんで　ください！
-グループモード：\xfffeきめた　ばしょに　あてはまる\xfffeグループを　えらんで　ください
+BENUTZEN
+WEITER
+BEENDEN
+BEARBEITEN
+NEUE NACHRICHTEN HINZUFÜGEN
+AUSWÄHLEN
+LÖSCHEN
+SCHLIEßEN
+Registrierte Nachrichtenliste:\xfffePlease select the message\xfffewas du benutzen möchtest.
+Bitte wähle einen Nachrichttyp\xfffeor the place you want\xfffeum deine Wörter oder Sätze benutzen.
+Bitte wähle aus welches\xfffeyour Wort du ersetzen möchtest.
+GRUPPEN MODUS:\xfffeBitte wähle ein Satz oder ein Wort\xfffeaus der Gruppe.
+ABC MODUS:\xfffeBitte wähle ein Buchstaben\xfffenarrow down your choices.
+ABC MODE:\xfffePlease choose a word or phrase\xfffefrom the narrowed-down list.
+GROUP MODE:\xfffeBitte wähle eine Gruppe von Wörtern\xfffeor Sätze die dahin passen.
