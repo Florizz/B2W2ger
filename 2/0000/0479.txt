@@ -1,107 +1,107 @@
-『けんさく　モード』
-じょうけんを　いれて　ください
-『けんさくの　けっか』
-みつかったかず　\xf000Ȃ\x0001\x0000
-ならびじゅんを　いれてください
-なまえの　かしらもじを　いれてください
-タイプを　いれてください
-かたちを　いれてください
-いろを　いれてください
-ポケモンが　みつかりました！
-ポケモンが　みつかりません……
-けんさく　しています……
-ならび
-なまえ
-タイプ
-いろ
-かたち
-イッシュずかん：けんさくモード
-ぜんこくずかん：けんさくモード
-リセット
-スタート
-やめる
+『Such Modus』
+Bitte gib die Suchkriterien an.
+『Such Ergebnisse』
+\xf000Ȃ\x0001\x0000 was not found.
+Bitte gib die Anweisung an.
+Bitte gib den ersten Buchstaben im Namen an.
+Bitte gib den Typ an.
+Bitte gib die Form an.
+Bitte gib die Farbe an.
+Pokémon gefunden!
+Kein Pokémon gefunden...
+Suche...
+ANWEISUNG
+NAME
+TYP
+FARBE
+FORM
+Einall Pokédex: Such Modus
+Nationaler Pokédex: Such Modus
+ZURUECKSETZEN
+STARTEN
+VERLASSEN
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-けってい
-やめる
-ばんごうじゅん
-ごじゅうおん
-おもいじゅん
-かるいじゅん
-たかいじゅん
-ひくいじゅん
-あく
-いわ
-エスパー
-かくとう
-くさ
-こおり
-ゴースト
-じめん
-でんき
-どく
-ドラゴン
-ノーマル
-はがね
-ひこう
-ほのお
-みず
-むし
+AKZEPTIEREN
+VERLASSEN
+Nummer
+A bis Z
+Schwer nach Leicht
+Leicht nach Schwer
+Groß nach Klein
+Klein nach Groß
+Dunkelheit
+Stein
+Psycho
+Kampf
+Graß
+Eis
+Geist
+Boden
+Electro
+Gift
+Drache
+Normal
+Stahl
+Flug
+Feuer
+Wasser
+Käfer
 ――――
 ／
 ――――
-ア.
-イ
-ウ
-エ
-オ
-カ.
-キ
-ク
-ケ
-コ
-サ.
-シ
-ス
-セ
-ソ
-タ.
-チ
-ツ
-テ
-ト
-ナ.
-ニ
-ヌ
-ネ
-ノ
-ハ.
-ヒ
-フ
-ヘ
-ホ
-マ.
-ミ
-ム
-メ
-モ
-ヤ.
-ユ
-ヨ
-ラ.
-リ
-ル
-レ
-ロ
-ワ.
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ―
-あか
-あお
-き
-みどり
-くろ
-ちゃ
-むらさき
-はい
-しろ
-もも
+Rot
+Blau
+Gelb
+Grün
+Schwarz
+Braun
+lila
+Grau
+Weiß
+Pink
 ――――
