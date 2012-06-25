@@ -1,120 +1,120 @@
 －－－－－－－－－－
-なぞのばしょ
-とおいばしょ
+Mysterioese Zone
+Weit entfernter Platz
 \xf000Ā\x0001\x0000の\xf000ą\x0001\x0001
-カノコタウン
-カラクサタウン
-サンヨウシティ
-シッポウシティ
-ヒウンシティ
-ライモンシティ
-ホドモエシティ
-フキヨセシティ
-セッカシティ
-ソウリュウシティ
-１ばんどうろ
-２ばんどうろ
-３ばんどうろ
-４ばんどうろ
-５ばんどうろ
-６ばんどうろ
-７ばんどうろ
-８ばんどうろ
-９ばんどうろ
-１０ばんどうろ
-１１ばんどうろ
-１２ばんどうろ
-１３ばんどうろ
-１４ばんどうろ
-１５ばんどうろ
-１６ばんどうろ
-１７ばんすいどう
-１８ばんどうろ
-ゆめのあとち
-ヤグルマのもり
-リゾートデザート
-こだいのしろ
-ＰＷＴ
-でんきいしのほらあな
-ネジやま
-リュウラセンのとう
-チャンピオンロード
-カゴメタウン
-サザナミタウン
-カナワタウン
-ポケモンリーグ
-Ｎのしろ
-ロイヤルイッシュごう
-ギアステーション
-バトルサブウェイ
-ミュージカルホール
-ブラックシティ
-ホワイトフォレスト
-ユナイテッドタワー
-ちかすいみゃくのあな
-フキヨセのほらあな
-しさくのはら
-タワーオブヘブン
-セッカのしつげん
-ショッピングモール
-しゅぎょうのいわや
-シフトファクトリー
-ジャイアントホール
-リバティガーデンとう
-Ｐ２ラボ
-スカイアローブリッジ
-ホドモエのはねばし
-シリンダーブリッジ
-ビレッジブリッジ
-ワンダーブリッジ
-ハイリンク
-ほうじょうのやしろ
-サザナミわん
-まよいのもり
-しれんのむろ
-しるべのま
-ハイリンクのもり
-ライモンシティ
-ホドモエシティ
-フキヨセシティ
-セッカシティ
-ソウリュウシティ
-カノコタウン
-ホワイトフォレスト
-ブラックシティ
-れいとうコンテナ
-でんきいしのほらあな
-ネジやま
-リュウラセンのとう
-ジャイアントホール
-ホドモエのはねばし
-シリンダーブリッジ
-ビレッジブリッジ
-ワンダーブリッジ
-５ばんどうろ
-６ばんどうろ
-７ばんどうろ
-８ばんどうろ
-９ばんどうろ
-１１ばんどうろ
-１２ばんどうろ
-１３ばんどうろ
-１４ばんどうろ
-１５ばんどうろ
-１６ばんどうろ
-カゴメタウン
-サザナミタウン
-カラクサゲート
-サザナミゲート
-シッポウゲート
-ヒウンゲート
-ライモンゲート
-ソウリュウゲート
-ブラックゲート
-ホワイトゲート
-ブリッジゲート
-ロードゲート
-かいていいせき
+Avenitia
+Gavina
+Orion City
+Septerna City
+Stratos City
+Rayono City
+Marea City
+Panaero City
+Nevaio City
+Twindrake City
+Route 1
+Route 2
+Route 3
+Route 4
+Route 5
+Route 6
+Route 7
+Route 8
+Route 9
+Route 10
+Route 11
+Route 12
+Route 13
+Route 14
+Route 15
+Route 16
+Route 17
+Route 18
+Traumbrache
+Ewigenwald
+Wuestenresort
+Alter Palast
+Tiefkuehlkontainer
+Elektrolithhoele
+Wendelberg
+Drachensteige
+Siegesstraße
+Tessera
+Ondula
+Ferrula
+Pokémon Liga
+N's Schloss
+Royal Unova
+Gear Station
+Kampfuntergrund
+Musiktheater
+Schwarze Stadt
+Weißer Wald
+Vereintes Dorf
+Grundwassersenke
+Panaero Höhle
+Rumination Field
+Turm des Himmels
+Moor von Nevaio
+Einkaufszentrum
+Herausfordernde Hoehle
+Poké Transfer Labor
+Tiefer Abgrund
+Liberty Garten
+P2 Laboratory
+Himmelspfeil Bruecke
+Marea Zugbruecke
+Zylinderbruecke
+Dorfbruecke
+Wunderbrücke
+Entralink
+Schrein der Ernte
+Bucht von Ondula
+Hain der Tauuschung
+Trial Chamber
+Guidance Chamber
+Entree Forest
+Rayono City
+Marea City
+Panaero City
+Nevaio City
+Twindrake City
+Avenitia
+Weißer Wald
+Schwarze Stadt
+Tiefkuehlcontainer
+Elektrolithhoele
+Wendelberg
+Drachensteige
+Tiefer Abgrund
+Marea Zugbruecke
+Zylinderbruecke
+Dorfbruecke
+Wunderbruecke
+Route 5
+Route 6
+Route 7
+Route 8
+Route 9
+Route 11
+Route 12
+Route 13
+Route 14
+Route 15
+Route 16
+Tessera
+Ondula
+Gavina Tor
+Ondula Tor
+Septerna Tor
+Stratos Tor
+Rayono Tor
+Twindrake Tor
+Schwarzes Tor
+Weißes Tor
+Brueckentor
+Routentor
+Abyssal Ruins
 ヒオウギシティ
 タチワキシティ
 セイガイハシティ
