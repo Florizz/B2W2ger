@@ -1,9 +1,9 @@
-たいりょく
-こうげき
-ぼうぎょ
+Ausdauer
+Attacke
+Defensive
 すばやさ
-とくこう
-とくぼう
-めいちゅうりつ
-かいひりつ
-さいだいＨＰ
+Sp. Atk
+Sp. Def
+Genauigkeit
+Ausweichrate
+Max HP
